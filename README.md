@@ -1,10 +1,9 @@
 # Drug Database Agent
 
-An AI-powered agent that scrapes pharmaceutical and biotech company websites to extract pipeline asset data and exports it to Excel spreadsheets.
+An AI-powered agent that scrapes pharmaceutical and biotech company websites to extract pipeline asset data and exports it to Excel spreadsheets. Work in progress! Not investment/medical advice.
 
 ## Features
 
-- **100+ Companies**: Comprehensive database of pharma/biotech companies
 - **AI Analysis**: Uses Groq API for intelligent data extraction
 - **Excel Export**: Automated Excel file generation
 - **Web Interface**: Easy-to-use browser interface
